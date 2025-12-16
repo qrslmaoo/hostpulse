@@ -23,7 +23,7 @@ It is designed to give developers and power users a quick, uncluttered view of s
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/hostpulse.git](https://github.com/YourUsername/hostpulse.git)
+    git clone [https://github.com/qrslmaoo/hostpulse.git]
     cd hostpulse/src/HostPulse.UI
     ```
 

@@ -23,7 +23,7 @@ It is designed to give developers and power users a quick, uncluttered view of s
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/qrslmaoo/hostpulse.git]
+    git clone https://github.com/qrslmaoo/hostpulse.git
     cd hostpulse/src/HostPulse.UI
     ```
 
@@ -47,7 +47,7 @@ The HostPulse GUI window should launch, immediately beginning to collect and dis
 
 Press `Ctrl + S` at any time while the HostPulse window is focused.
 
-A JSON file named `hostpulse_snapshot_YYYYMMDD_HHMMSS.json` will be saved to the application directory, containing a detailed record of the current resource usage and all detected process spikes.
+A JSON file named `hostpulse_snapshot_.json` will be saved to the application directory, containing a detailed record of the current resource usage and all detected process spikes.
 
 ##  Technical Details
 

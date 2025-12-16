@@ -16,7 +16,7 @@ It is designed to give developers and power users a quick, uncluttered view of s
 
 ### Prerequisites
 
-* .NET SDK (6.0 or higher)
+* .NET SDK (8.0 or higher)
 * Windows operating system (Requires access to native Windows Performance Counters).
 
 ### Installation (Building from Source)
